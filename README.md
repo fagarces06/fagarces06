@@ -16,9 +16,11 @@ Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa
 
 Puedes contactarme al correo: fagarces06@gmail.com
 
-Skills:  REACT / JS / HTML / CSS/POSTGRESS/FIGMA/EXPRESS/NODE.JS
+🔭 Skills: React /Javascript /Process Improvement/nodejs / Sequelize / figma /HTML 5 /CSS3
 
-- 🔭 I’m currently working on this page. 
+
+
+
 
 
 
